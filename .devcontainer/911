@@ -1,6 +1,6 @@
 {
     // Name this configuration
-    "name": "Codespace for Skills!",
+    "ads911": "Codespace for Skills!",
     "customizations": {
         "vscode": {
             "extensions": [
